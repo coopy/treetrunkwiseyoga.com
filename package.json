@@ -1,0 +1,22 @@
+{
+  "name": "treetrunkwiseyoga.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/per-nilsson/treetrunkwiseyoga.com.git"
+  },
+  "author": "Per Nilsson <per@sproutlab.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/per-nilsson/treetrunkwiseyoga.com/issues"
+  },
+  "homepage": "https://github.com/per-nilsson/treetrunkwiseyoga.com",
+  "dependencies": {
+    "cssmin": "^0.4.3"
+  }
+}
